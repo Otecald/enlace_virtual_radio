@@ -2,6 +2,6 @@
 
 Esta es una página web hecha por ArtEze para Gustavo Álvarez, el conductor de la radio.
 
-El sitio web, aunque ahora está incactivo es http://enlacevirtualradio.com.ar/
+El sitio web, aunque ahora está incactivo es [enlacevirtualradio.com.ar](http://enlacevirtualradio.com.ar/)
 
-Página dentro de este proyecto: https://otecald.github.io/enlace_virtual_radio/index_3.html
+Página dentro de este proyecto: [otecald.github.io/enlace_virtual_radio/index_3.html](https://otecald.github.io/enlace_virtual_radio/index_3.html)
