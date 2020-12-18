@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Administración - Enlace Virtual</title>
+		<meta property="og:site_name" content="Administración - Enlace Virtual" />
+		<meta property="og:description" content="Para administrar Enlace Virtual." />
+		<meta property="og:image" content="https://enlacevirtual.com.ar/sub/img/original/logo.png" />
+	</head>
+	<body>
+		<center>
+			<h1>Administración de Enlace Virtual</h1>
+			<table border="1px">
+				<tr>
+					<td><b>Variable</b></td>
+					<td><b>Descripción</b></td>
+					<td><b>Valor</b></td>
+					<td><b>Entrada</b></td>
+				</tr>
+				<tr>
+					<td>tit_nav</td>
+					<td>Título del sitio en el navegador</td>
+					<td>Enlace Virtual</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>tit_og</td>
+					<td>Título al compartir</td>
+					<td>Radio Enlace Virtual</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>desc_og</td>
+					<td>Descripción al compartir</td>
+					<td>El sitio web de Radio Enlace Virtual.</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>img_og</td>
+					<td>URL de la imagen al compartir</td>
+					<td>https://enlacevirtual.com.ar/sub/img/original/logo.png</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>emitir</td>
+					<td>URL de la emisión de la radio</td>
+					<td>https://streaming2.locucionar.com:8670/stream</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>android</td>
+					<td>URL de la Aplicación de Android</td>
+					<td>https://play.google.com/store/apps/details?id=com.locucionar.enlacevirtual</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>tel_whatsapp</td>
+					<td>Número de Whatsapp</td>
+					<td>541156907108</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>desc_whatsapp</td>
+					<td>Descripción de Whatsapp</td>
+					<td>Whatsapp de Radio Enlace Virtual.</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>instagram</td>
+					<td>Usuario de Instagram</td>
+					<td>enlacevirtualradio</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>fb</td>
+					<td>Usuario de Facebook</td>
+					<td>enlacevir.tual.1</td>
+					<td><input/></td>
+				</tr>
+				<tr>
+					<td>twitter</td>
+					<td>Usuario de Twitter</td>
+					<td>enlacevirtualr1</td>
+					<td><input/></td>
+				</tr>
+			<table>
+		</center>
+	</body>
+</html>

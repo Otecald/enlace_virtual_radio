@@ -1,0 +1,6 @@
+{
+	"nombre_radio": "Enlace Virtual"
+	, "audio": "sub/php/biblioteca/restream.php?url=http://streaming2.locucionar.com:8670/stream"
+	, "está_al_aire": "http://streaming2.locucionar.com:8670/index.html"
+}
+

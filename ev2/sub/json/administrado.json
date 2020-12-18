@@ -1,0 +1,13 @@
+[
+  ["tit_nav"      , "Título del sitio en el navegador", "Enlace Virtual"                                                             ]
+, ["tit_og"       , "Título al compartir"             , "Radio Enlace Virtual"                                                       ]
+, ["desc_og"      , "Descripción al compartir"        , "El sitio web de Radio Enlace Virtual."                                      ]
+, ["img_og"       , "URL de la imagen al compartir"   , "https://enlacevirtual.com.ar/sub/img/original/logo.png"                     ]
+, ["emitir"       , "URL de la emisión de la radio"   , "https://streaming2.locucionar.com:8670/stream"                              ]
+, ["android"      , "URL de la Aplicación de Android" , "https://play.google.com/store/apps/details?id=com.locucionar.enlacevirtual" ]
+, ["tel_whatsapp" , "Número de Whatsapp"              , "541156907108"                                                               ]
+, ["desc_whatsapp", "Descripción de Whatsapp"         , "Whatsapp de Radio Enlace Virtual."                                          ]
+, ["instagram"    , "Usuario de Instagram"            , "enlacevirtualradio"                                                         ]
+, ["fb"           , "Usuario de Facebook"             , "enlacevir.tual.1"                                                           ]
+, ["twitter"      , "Usuario de Twitter"              , "enlacevirtualr1"                                                            ]
+]
