@@ -39,16 +39,16 @@
 							window.tiempo = []
 						}
 						tiempo.push(document.querySelector("audio").currentTime)
-						if(tiempo.length>10){
+						if(tiempo.length>100){
 							tiempo.shift()
-							if(tiempo[8]==tiempo[9]){
+							if(tiempo[95]==tiempo[96]){
 								var enlace = `${rz.variables.configuración.audio}?tiempo=${Date.now()}`
 								document.querySelector("audio").src = enlace
 								console.log("Tiempo: ",tiempo,enlace)
 								tiempo = []
 							}
 						}
-					},500)
+					},50)
 				},3000)
 
 				rz.registros.push(["programa.agregar_código",variables])
