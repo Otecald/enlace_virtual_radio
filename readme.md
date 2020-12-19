@@ -2,7 +2,9 @@
 
 Esta es una página web hecha por ArtEze para Gustavo Álvarez, el conductor de la radio.
 
-El sitio web, aunque ahora está incactivo es [enlacevirtual.com.ar](http://enlacevirtual.com.ar/)
+El sitio web original:
+
+- [enlacevirtual.com.ar](http://enlacevirtual.com.ar/)
 
 Página dentro de este proyecto:
 
